@@ -1,0 +1,4 @@
+repository "SciFi Demo@Mesprit@cloud"
+  path "/"
+    br "/main"
+    co "/main"
